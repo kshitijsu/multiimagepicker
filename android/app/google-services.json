@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203704418336",
+    "firebase_url": "https://multiimagepicker.firebaseio.com",
+    "project_id": "multiimagepicker",
+    "storage_bucket": "multiimagepicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203704418336:android:892c43f390a85f43aa7c45",
+        "android_client_info": {
+          "package_name": "com.kshitijsu.multiimagepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203704418336-r68oudgtrg5ce8k8ov705mbpipm7o1uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIgYeDlnMBQSVDCGGwrlqQzyHJzw2glM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203704418336-r68oudgtrg5ce8k8ov705mbpipm7o1uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
